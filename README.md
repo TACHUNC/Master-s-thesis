@@ -1,2 +1,2 @@
-# Master's thesis.
-# Department of Chemical Engineering, Imperical College London
+- Master's thesis.
+- Department of Chemical Engineering, Imperical College London
